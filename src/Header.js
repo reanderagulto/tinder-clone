@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Header.css";
 import PersonIcon from '@mui/icons-material/Person';
-import { Button, Icon, IconButton } from '@mui/material';
+import { Button, IconButton } from '@mui/material';
 import ForumIcon from '@mui/icons-material/Forum';
 
 function Header() {
