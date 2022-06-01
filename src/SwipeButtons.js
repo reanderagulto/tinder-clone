@@ -5,7 +5,7 @@ import CloseIcon from '@mui/icons-material/Close';
 import StarRateIcon from '@mui/icons-material/StarRate';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import FlashOnIcon from '@mui/icons-material/FlashOn';
-import { Button, IconButton } from '@mui/material';
+import { IconButton } from '@mui/material';
 
 function SwipeButtons() {
   return (
